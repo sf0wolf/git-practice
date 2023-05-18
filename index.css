@@ -3,6 +3,11 @@
 	margin: 0;
 }
 
+div {
+	width: 100px;
+	height: 100px;
+	background-color: blueviolet;
+}
 .test {
 	width: 100px;
 	height: 100px;
